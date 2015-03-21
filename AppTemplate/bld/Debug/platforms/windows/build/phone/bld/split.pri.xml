@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="io.cordova.AppTemplate" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="config.xml" uri="ms-resource://io.cordova.AppTemplate/Files/config.xml">
+				<Candidate type="Path">
+					<Value>config.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="SplashScreen.png" uri="ms-resource://io.cordova.AppTemplate/Files/images/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreenPhone.png" uri="ms-resource://io.cordova.AppTemplate/Files/images/SplashScreenPhone.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\SplashScreenPhone.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://io.cordova.AppTemplate/Files/images/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square150x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square30x30Logo.png" uri="ms-resource://io.cordova.AppTemplate/Files/images/Square30x30Logo.png"/>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://io.cordova.AppTemplate/Files/images/Square310x310Logo.png"/>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://io.cordova.AppTemplate/Files/images/Square44x44Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square70x70Logo.png" uri="ms-resource://io.cordova.AppTemplate/Files/images/Square70x70Logo.png"/>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://io.cordova.AppTemplate/Files/images/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://io.cordova.AppTemplate/Files/images/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://io.cordova.AppTemplate/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="www">
+				<NamedResource name="cordova.js" uri="ms-resource://io.cordova.AppTemplate/Files/www/cordova.js">
+					<Candidate type="Path">
+						<Value>www\cordova.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="cordova_plugins.js" uri="ms-resource://io.cordova.AppTemplate/Files/www/cordova_plugins.js">
+					<Candidate type="Path">
+						<Value>www\cordova_plugins.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="index.html" uri="ms-resource://io.cordova.AppTemplate/Files/www/index.html">
+					<Candidate type="Path">
+						<Value>www\index.html</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Project_Readme.html" uri="ms-resource://io.cordova.AppTemplate/Files/www/Project_Readme.html">
+					<Candidate type="Path">
+						<Value>www\Project_Readme.html</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="css">
+					<NamedResource name="index.css" uri="ms-resource://io.cordova.AppTemplate/Files/www/css/index.css">
+						<Candidate type="Path">
+							<Value>www\css\index.css</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="frameworks">
+					<ResourceMapSubtree name="jquery_mobile">
+						<NamedResource name="jquery.mobile-1.4.5.min.css" uri="ms-resource://io.cordova.AppTemplate/Files/www/frameworks/jquery_mobile/jquery.mobile-1.4.5.min.css">
+							<Candidate type="Path">
+								<Value>www\frameworks\jquery_mobile\jquery.mobile-1.4.5.min.css</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="jquery.mobile-1.4.5.min.js" uri="ms-resource://io.cordova.AppTemplate/Files/www/frameworks/jquery_mobile/jquery.mobile-1.4.5.min.js">
+							<Candidate type="Path">
+								<Value>www\frameworks\jquery_mobile\jquery.mobile-1.4.5.min.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="jquery.mobile-1.4.5.min.map" uri="ms-resource://io.cordova.AppTemplate/Files/www/frameworks/jquery_mobile/jquery.mobile-1.4.5.min.map">
+							<Candidate type="Path">
+								<Value>www\frameworks\jquery_mobile\jquery.mobile-1.4.5.min.map</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="winstore-jscompact.js" uri="ms-resource://io.cordova.AppTemplate/Files/www/frameworks/jquery_mobile/winstore-jscompact.js">
+							<Candidate type="Path">
+								<Value>www\frameworks\jquery_mobile\winstore-jscompact.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="materialize">
+						<NamedResource name=".DS_Store" uri="ms-resource://io.cordova.AppTemplate/Files/www/frameworks/materialize/.DS_Store">
+							<Candidate type="Path">
+								<Value>www\frameworks\materialize\.DS_Store</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="LICENSE" uri="ms-resource://io.cordova.AppTemplate/Files/www/frameworks/materialize/LICENSE">
+							<Candidate type="Path">
+								<Value>www\frameworks\materialize\LICENSE</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="README.md" uri="ms-resource://io.cordova.AppTemplate/Files/www/frameworks/materialize/README.md">
+							<Candidate type="Path">
+								<Value>www\frameworks\materialize\README.md</Value>
+							</Candidate>
+						</NamedResource>
+						<ResourceMapSubtree name="css">
+							<NamedResource name=".DS_Store" uri="ms-resource://io.cordova.AppTemplate/Files/www/frameworks/materialize/css/.DS_Store">
+								<Candidate type="Path">
+									<Value>www\frameworks\materialize\css\.DS_Store</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="materialize.css" uri="ms-resource://io.cordova.AppTemplate/Files/www/frameworks/materialize/css/materialize.css">
+								<Candidate type="Path">
+									<Value>www\frameworks\materialize\css\materialize.css</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="materialize.min.css" uri="ms-resource://io.cordova.AppTemplate/Files/www/frameworks/materialize/css/materialize.min.css">
+								<Candidate type="Path">
+									<Value>www\frameworks\materialize\css\materialize.min.css</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="font">
+							<ResourceMapSubtree name="material-design-icons">
+								<NamedResource name="LICENSE.txt" uri="ms-resource://io.cordova.AppTemplate/Files/www/frameworks/materialize/font/material-design-icons/LICENSE.txt">
+									<Candidate type="Path">
+										<Value>www\frameworks\materialize\font\material-design-icons\LICENSE.txt</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="Material-Design-Icons.eot" uri="ms-resource://io.cordova.AppTemplate/Files/www/frameworks/materialize/font/material-design-icons/Material-Design-Icons.eot">
+									<Candidate type="Path">
+										<Value>www\frameworks\materialize\font\material-design-icons\Material-Design-Icons.eot</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="Material-Design-Icons.svg" uri="ms-resource://io.cordova.AppTemplate/Files/www/frameworks/materialize/font/material-design-icons/Material-Design-Icons.svg">
+									<Candidate type="Path">
+										<Value>www\frameworks\materialize\font\material-design-icons\Material-Design-Icons.svg</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="Material-Design-Icons.ttf" uri="ms-resource://io.cordova.AppTemplate/Files/www/frameworks/materialize/font/material-design-icons/Material-Design-Icons.ttf">
+									<Candidate type="Path">
+										<Value>www\frameworks\materialize\font\material-design-icons\Material-Design-Icons.ttf</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="Material-Design-Icons.woff" uri="ms-resource://io.cordova.AppTemplate/Files/www/frameworks/materialize/font/material-design-icons/Material-Design-Icons.woff">
+									<Candidate type="Path">
+										<Value>www\frameworks\materialize\font\material-design-icons\Material-Design-Icons.woff</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+							<ResourceMapSubtree name="roboto">
+								<NamedResource name="Roboto-Bold.ttf" uri="ms-resource://io.cordova.AppTemplate/Files/www/frameworks/materialize/font/roboto/Roboto-Bold.ttf">
+									<Candidate type="Path">
+										<Value>www\frameworks\materialize\font\roboto\Roboto-Bold.ttf</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="Roboto-Light.ttf" uri="ms-resource://io.cordova.AppTemplate/Files/www/frameworks/materialize/font/roboto/Roboto-Light.ttf">
+									<Candidate type="Path">
+										<Value>www\frameworks\materialize\font\roboto\Roboto-Light.ttf</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="Roboto-Medium.ttf" uri="ms-resource://io.cordova.AppTemplate/Files/www/frameworks/materialize/font/roboto/Roboto-Medium.ttf">
+									<Candidate type="Path">
+										<Value>www\frameworks\materialize\font\roboto\Roboto-Medium.ttf</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="Roboto-Regular.ttf" uri="ms-resource://io.cordova.AppTemplate/Files/www/frameworks/materialize/font/roboto/Roboto-Regular.ttf">
+									<Candidate type="Path">
+										<Value>www\frameworks\materialize\font\roboto\Roboto-Regular.ttf</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="Roboto-Thin.ttf" uri="ms-resource://io.cordova.AppTemplate/Files/www/frameworks/materialize/font/roboto/Roboto-Thin.ttf">
+									<Candidate type="Path">
+										<Value>www\frameworks\materialize\font\roboto\Roboto-Thin.ttf</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="js">
+							<NamedResource name="materialize.js" uri="ms-resource://io.cordova.AppTemplate/Files/www/frameworks/materialize/js/materialize.js">
+								<Candidate type="Path">
+									<Value>www\frameworks\materialize\js\materialize.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="materialize.min.js" uri="ms-resource://io.cordova.AppTemplate/Files/www/frameworks/materialize/js/materialize.min.js">
+								<Candidate type="Path">
+									<Value>www\frameworks\materialize\js\materialize.min.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="scripts">
+					<NamedResource name="app.js" uri="ms-resource://io.cordova.AppTemplate/Files/www/scripts/app.js">
+						<Candidate type="Path">
+							<Value>www\scripts\app.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="index.js" uri="ms-resource://io.cordova.AppTemplate/Files/www/scripts/index.js">
+						<Candidate type="Path">
+							<Value>www\scripts\index.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="jquery-1.11.2.min.js" uri="ms-resource://io.cordova.AppTemplate/Files/www/scripts/jquery-1.11.2.min.js">
+						<Candidate type="Path">
+							<Value>www\scripts\jquery-1.11.2.min.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="platformOverrides.js" uri="ms-resource://io.cordova.AppTemplate/Files/www/scripts/platformOverrides.js">
+						<Candidate type="Path">
+							<Value>www\scripts\platformOverrides.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="winstore-jscompat.js" uri="ms-resource://io.cordova.AppTemplate/Files/www/scripts/winstore-jscompat.js">
+						<Candidate type="Path">
+							<Value>www\scripts\winstore-jscompat.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
